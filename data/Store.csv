@@ -1,0 +1,830 @@
+﻿1,1,Autem - 1032,10203 Acorn Avenue,463
+2,1,Autem - 1048,1273 Deetmeadow Way,463
+3,1,Autem - 1087,1936 Balance Ct,463
+4,1,Autem - 111,"253131 Lake Frasier Drive, Office No. 2",463
+5,1,Autem - 1118,Suite 99320 255 - 510th Avenue S.W.,463
+6,1,Autem - 1144,251420a 170th Street,612
+7,1,Autem - 1160,No. 25400 10665 Jasper Avenue,612
+8,10,Odit - 904,2000 300th Street,409
+9,10,Officia - 1088,2342 Peachwillow,409
+10,10,Officia - 1122,2530 South Colorado Blvd.,409
+11,10,Officia - 1132,955 E. County Line Rd.,99
+12,10,Officia - 114,"C/O Starpak, Inc.",301
+13,10,Officia - 1150,5525 South Hover Road,220
+14,10,Officia - 121,2575 Rocky Mountain Ave.,475
+15,10,Officia - 1293,Rocky Mountain Pines Outlet,475
+16,10,Officia - 1341,8525 South Parker Road,583
+17,103,Rerum - 1240,"6935, rue Malar",13
+18,103,Rerum - 1240,"6935, rue Malar",19
+19,103,Rerum - 1240,"6935, rue Malar",395
+20,103,Rerum - 129,"75, avenue de la Gare",13
+21,103,Rerum - 129,"75, avenue de la Gare",19
+22,103,Rerum - 129,"75, avenue de la Gare",395
+23,103,Rerum - 1339,"77, rue du Puits Dixme",13
+24,103,Rerum - 1339,"77, rue du Puits Dixme",19
+25,103,Rerum - 1339,"77, rue du Puits Dixme",395
+26,11,Officia - 1387,Saltonstall Parkway,603
+27,11,Officia - 1434,225 Hyde Rd,310
+28,11,Officia - 1462,99200 Dixwell Ave.,188
+29,11,Officia - 1490,630 Oldgate Lane,432
+30,11,Officia - 1504,Connecticut Post Mall,432
+31,11,Officia - 1530,Amity Plaza,490
+32,11,Officia - 1671,9963 Tresser Blvd.,14
+33,11,Officia - 1708,9975 Union St.,355
+34,11,Officia - 1839,25850 Post Road,538
+35,117,Aspernatur - 731,"27, rue de la Comédie",210
+36,117,Aspernatur - 773,"3, place de la République",210
+37,117,Aspernatur - 809,"304, rue des Rosiers",210
+38,117,Aspernatur - 82,"310, rue des Rosiers",210
+39,117,Rerum - 135,"2408, rue Maillard",210
+40,118,Aspernatur - 994,"18, rue de l´Esplanade",372
+41,119,AtectoLounge - 107,"94, rue Descartes",368
+42,131,AtectoLounge - 1108,"8848, avenue de Villiers",146
+43,131,AtectoLounge - 1115,"99, rue du Puits Dixme",146
+44,131,AtectoLounge - 1141,"99, rue Royale",146
+45,131,AtectoLounge - 1235,"9967, rue Marbeuf",146
+46,131,AtectoLounge - 1255,Attaché de Presse,146
+47,14,AliquidStores - 37,9996 Asilomaar Dr.,219
+48,14,AliquidStores - 474,9997 Montgomery Ave.,219
+49,14,AliquidStores - 512,P.O. Box 9178,219
+50,14,AliquidStores - 667,Paramount House,219
+51,14,AliquidStores - 674,"Park House-4th Floor, 2516 Park St.",219
+52,14,AliquidStores - 727,3208 Thors Bay Road,145
+53,14,AliquidStores - 859,3884 Bates Court,145
+54,14,AliquidStores - 895,4051 Sun View Terrace,145
+55,14,AliquidStores - 900,4203 Wildcat Circle,145
+56,14,AliquidStores - 929,4278 Heppard Way,145
+57,14,AliquidStores - 935,9471 Laguna Circle,423
+58,14,AliquidStores - 977,956 B Wildbrook Ct.,423
+59,14,AliquidStores - 978,9739 Benedict Court,423
+60,14,Aperiam - 1046,9889 Loveridge Circle,423
+61,14,Aperiam - 1107,"Garamonde Drive, Wymbush",423
+62,14,Aperiam - 1146,4471 Willcrest Circle,108
+63,14,Aperiam - 1161,4654 Marina View Pkwy.,108
+64,14,Aperiam - 1236,4698 G Street,108
+65,14,Aperiam - 1274,4712 Brook Way,108
+66,14,Aperiam - 1315,4771 Kenston Dr,108
+67,14,Aperiam - 1344,9222 Roseann Drive,20
+68,14,Aperiam - 135,9546 Cardinal Ct.,20
+69,14,Aperiam - 1619,9613 Camino Royale,20
+70,14,Aperiam - 1660,9809 Baltic Sea Ct,20
+71,14,Aperiam - 1694,9965 V. Street,20
+72,14,Aperiam - 1717,1579 Plaza Rosa,362
+73,14,Aperiam - 1721,1708 Shadow Lane,362
+74,14,Aperiam - 1760,1781 Camino Solano,362
+75,14,Aperiam - 1807,1907 Grand Ct.,362
+76,14,Aperiam - 1852,192 Bundros Court,362
+77,14,Aperiam - 1886,6766 Sea Ranch Ct.,298
+78,14,Aperiam - 197,6939 Hilltop Dr.,298
+79,14,Aperiam - 233,7070 W. Watson Court,298
+80,14,Aperiam - 286,7280 Greendell Pl,298
+81,14,Aperiam - 292,Welt Platz 9,298
+82,14,Aperiam - 374,5843 Westwood Court,419
+83,14,Aperiam - 459,6161 Sanders St.,419
+84,14,Aperiam - 469,6261 Chestnut Avenue,419
+85,14,Aperiam - 500,6772 Northstar Drive,419
+86,14,Aperiam - 505,7386 Rolph Park Drive,419
+87,14,Aperiam - 536,9564 Pennsylvania Blvd.,421
+88,14,Aperiam - 567,9711 Contra Costa Blvd.,421
+89,14,Aperiam - 62,975 Harris Circle,421
+90,14,Aperiam - 650,9771 Wesley Court,421
+91,14,Aperiam - 652,9943 Stonehedge Dr.,421
+92,14,Aperiam - 668,4749 Blackwood Drive,282
+93,14,Aperiam - 693,494 North Spoonwood Court,282
+94,14,Aperiam - 768,5240 Premier Pl.,282
+95,14,Aperiam - 89,5253 Harris Court,282
+96,14,Aperiam - 920,5276 Whitehall Drive,282
+97,14,Aperiam - 927,9395 Asilomaar Dr,591
+98,14,Aperiam - 932,9440 First Ave.,591
+99,14,Aperiam - 945,9513 Ridge Park Drive,591
+100,14,Aperiam - 997,9573 Royal Oak Rd.,591
+101,14,Aperiam - 999,9779 Shuey Ave.,591
+102,14,Aspernatur - 1040,2575 Garcia,279
+103,14,Aspernatur - 1082,2678 Village Pl,279
+104,14,Aspernatur - 1264,277 South Royal Links,279
+105,14,Aspernatur - 1265,2775 Mt. Olivet Pl.,279
+106,14,Aspernatur - 1291,2874 Turning View,279
+107,14,Aspernatur - 1305,7164 Pinncale Drive,396
+108,14,Aspernatur - 132,7419 Donaleen Ct.,396
+109,14,Aspernatur - 1374,7499 Yolanda Circle,396
+110,14,Aspernatur - 1410,76 Woodcrest Dr.,396
+111,14,Aspernatur - 1485,7983 Pinecrest Dr.,396
+112,14,Bolupta - 1903,2163 Angi Lane,357
+113,14,Bolupta - 1908,2382 Wicker Ave.,357
+114,14,Bolupta - 1956,3128 Morgan Territory Rd,357
+115,14,Bolupta - 1984,3152 Greystone Drive,357
+116,14,Bolupta - 2,3173 Darlene Drive,357
+117,14,Bolupta - 279,3545 Chickpea Ct.,67
+118,14,Bolupta - 28,3601 Stinson,67
+119,14,Bolupta - 399,3999 Tobi Drive,67
+120,14,Bolupta - 459,4313 Atherton Circle,67
+121,14,Bolupta - 512,4333 Elmonte Dr.,67
+122,14,Bolupta - 536,730 Keller Ridge Dr,65
+123,14,Bolupta - 646,7320 Bloching Circle,65
+124,14,Bolupta - 767,7469 Paradise Ct.,65
+125,14,Bolupta - 768,7516 Laguna Street,65
+126,14,Bolupta - 781,7680 Lay Brooke Way,65
+127,14,Bolupta - 794,692 Brook Way,361
+128,14,Bolupta - 843,6947 Jemco Court,361
+129,14,Bolupta - 867,7 Pioneer Business Park,361
+130,14,Bolupta - 93,7013 Cimarron Drive,361
+131,14,Bolupta - 938,7028 San Gabriel Dr.,361
+132,14,Officia - 1885,"New Millhouse, 2583 Milton Park",606
+133,14,Officia - 19,2844 Plymouth Drive,414
+134,14,Officia - 1907,8605 Flamingo Dr,414
+135,14,Officia - 211,Wade Road,414
+136,14,Officia - 232,3280 Oliveria Road,302
+137,14,Officia - 258,3294 Buena Vista,302
+138,14,Officia - 364,438 Post Road,302
+139,14,Officia - 464,4408 Trinity Ave.,302
+140,14,Officia - 489,4765 L St.,302
+141,14,Officia - 607,6283 San Marino Ct.,32
+142,14,Officia - 679,7172 Parkway Drive,32
+143,14,Officia - 68,7271 Adelaide St,32
+144,14,Officia - 693,7832 Prospect St.,32
+145,14,Officia - 713,9340 Brook Way,32
+146,14,Officia - 777,1358 Palmer Rd,30
+147,14,Officia - 821,1782 Gold Crest Ct,30
+148,14,Officia - 881,1830 Shore Rd.,30
+149,14,Officia - 96,1936 Balance Ct,30
+150,14,Officia - 999,2503 Cloverleaf Circle,30
+151,14,Perspicats - 1000,828 Pinewood Court,380
+152,14,Perspicats - 1000,828 Pinewood Court,575
+153,14,Perspicats - 1034,8370 Birchwood Dr,380
+154,14,Perspicats - 1034,8370 Birchwood Dr,575
+155,14,Perspicats - 106,8434 Kenmore,380
+156,14,Perspicats - 106,8434 Kenmore,575
+157,14,Perspicats - 1062,9038 Ida Drive,380
+158,14,Perspicats - 1062,9038 Ida Drive,575
+159,14,Perspicats - 1086,9116 Tice Valley Blv.,380
+160,14,Perspicats - 1086,9116 Tice Valley Blv.,575
+161,14,Perspicats - 1113,5950 Coldwater Drive,107
+162,14,Perspicats - 1191,9126 Jamie Way,107
+163,14,Perspicats - 120,9275 Westwood Way,107
+164,14,Perspicats - 1208,9405 Curletto Dr.,107
+165,14,Perspicats - 1221,Ellesfield Ave,107
+166,14,Perspicats - 1226,6180 E. 6th Street,577
+167,14,Perspicats - 1273,6299 Balance Ct.,577
+168,14,Perspicats - 128,6625 First Ave.,577
+169,14,Perspicats - 1294,6648 Choctaw Court,577
+170,14,Perspicats - 1322,6720 Bryce Dr.,577
+171,14,Perspicats - 1330,8011 McNutt Ave,7
+172,14,Perspicats - 1330,8011 McNutt Ave,327
+173,14,Perspicats - 1352,8914 Amador Ct.,7
+174,14,Perspicats - 1352,8914 Amador Ct.,327
+175,14,Perspicats - 1469,9271 Prestwick Ave.,7
+176,14,Perspicats - 1469,9271 Prestwick Ave.,327
+177,14,Perspicats - 1491,9879 Hedaro Court,7
+178,14,Perspicats - 1491,9879 Hedaro Court,327
+179,14,Perspicats - 1497,Downshire Way,7
+180,14,Perspicats - 1497,Downshire Way,327
+181,14,Perspicats - 1521,337 Tosca Way,126
+182,14,Perspicats - 1830,4008 Charlotte Court,126
+183,14,Perspicats - 1873,4369 Carpetta Circle,126
+184,14,Perspicats - 1943,4822 Center Street,126
+185,14,Perspicats - 219,514 Rambling Lane,126
+186,14,Quia - 107,891 Peachwillow Lane,277
+187,14,Quia - 108,9224 Nob Hill Drive,277
+188,14,Quia - 1109,9477 Gladstone Drive,277
+189,14,Quia - 1168,9525 Akyn Rock Dr.,277
+190,14,Quia - 1256,9712 Lexington Road,277
+191,14,Quia - 1383,2100 Pear Dr.,509
+192,14,Quia - 1460,2421 Norse Drive,509
+193,14,Quia - 1493,2648 Hillcrest,509
+194,14,Quia - 1503,2680 Corte Del Sol,509
+195,14,Quia - 1523,2696 Estudillo St.,509
+196,14,Quia - 154,6205 Lorie Lane,28
+197,14,Quia - 1540,6648 Rose Dr,28
+198,14,Quia - 1549,6820 Willow Pass Dr,28
+199,14,Quia - 1609,6836 Somerset Pl.,28
+200,14,Quia - 1633,6927 Ricardo Drive,28
+201,14,Quia - 166,1111 Bayview Cr,576
+202,14,Quia - 1690,1413 Bridgeview St,576
+203,14,Quia - 1700,"2877, rue des Ecoles",576
+204,14,Quia - 1704,2923 Stanford Street,576
+205,14,Quia - 173,3048 Bayshore Rd.,576
+206,14,Quia - 1765,5846 Premier Place,385
+207,14,Quia - 228,6300 Colfax Street,385
+208,14,Quia - 465,645 Dublin Court,385
+209,14,Quia - 548,6526 Creed Ave,385
+210,14,Quia - 617,7628 Beech Ct,385
+211,14,Quia - 685,8976 E Leland,519
+212,14,Quia - 727,9062 Melrose Place,519
+213,14,Quia - 740,9534 Ridgewood Ct.,519
+214,14,Quia - 76,9900 Clearbrook Drive,519
+215,14,Quia - 767,"Butterfield Hse, 7-251 Chapel St",519
+216,14,Quia - 844,6915 San Ramon Valley Blvd.,325
+217,14,Quia - 899,7119 Panoramic Drive,325
+218,14,Quia - 906,7144 Flagstone Way,325
+219,14,Quibusdam - 1022,7158 Waterview Place,325
+220,14,Quibusdam - 1076,7282 Michele Drive,325
+221,14,Quibusdam - 1081,4113 Marsh Meadow Way,565
+222,14,Quibusdam - 11,4397 Lakewood Court,565
+223,14,Quibusdam - 1239,457 Ryan Rd.,565
+224,14,Quibusdam - 1248,4919 Hames Court,565
+225,14,Quibusdam - 1323,5399 Heron Ct.,565
+226,143,AtectoLounge - 1362,3675 Palms Dr,492
+227,143,AtectoLounge - 1393,"3716, avenue Reille",492
+228,143,AtectoLounge - 1449,"48bis, boulevard du Montparnasse",492
+229,143,AtectoLounge - 1478,"5, rue des Bouchers",492
+230,143,AtectoLounge - 1553,"54, rue de Courtaboeuf",492
+231,145,AtectoLounge - 1581,"6, rue des Vendangeurs",572
+232,145,AtectoLounge - 1602,"66, avenue de Malakoff",572
+233,145,AtectoLounge - 163,"66, rue Georges-Clémenceau",572
+234,145,AtectoLounge - 164,"6698, avenue de Villiers",572
+235,145,AtectoLounge - 1682,"68, avenue de l´ Union Centrale",572
+236,145,AtectoLounge - 1715,"75, avenue de la Gare",387
+237,145,AtectoLounge - 1812,"75, avenue Reille",387
+238,145,AtectoLounge - 1868,"75, rue de Cambrai",387
+239,145,AtectoLounge - 1901,"8, rue de l´Esplanade",387
+240,145,AtectoLounge - 1925,"80, rue de Fontfroide",387
+241,145,AtectoLounge - 1985,"4252, rue Saint-Lazare",204
+242,145,AtectoLounge - 217,"45, rue Faubourg St Antoine",204
+243,145,AtectoLounge - 306,"5, avenue de la Gare",204
+244,145,AtectoLounge - 317,"5, rue Malar",204
+245,145,AtectoLounge - 329,"50, rue Royale",204
+246,145,AtectoLounge - 350,"1, cours Mirabeau",247
+247,145,AtectoLounge - 36,"1, rue de la Cavalerie",247
+248,145,AtectoLounge - 37,"11, rue de l'Espace De Schengen",247
+249,145,AtectoLounge - 431,"22, rue Jean Mermoz",247
+250,145,AtectoLounge - 494,"24, place de Brazaville",247
+251,145,AtectoLounge - 497,"82, route de Marseille",349
+252,145,AtectoLounge - 54,"821, rue des Rosiers",349
+253,145,AtectoLounge - 544,"88, avenue de l´ Union Centrale",349
+254,145,AtectoLounge - 574,"98, rue Montcalm",349
+255,145,AtectoLounge - 584,Attaché de Presse,349
+256,145,AtectoLounge - 590,87 rue de la Comédie,439
+257,145,AtectoLounge - 702,8818 avenue de Villiers,439
+258,145,AtectoLounge - 771,"98, rue des Berges",439
+259,148,AtectoLounge - 810,"3355, rue de Longchamp",281
+260,148,AtectoLounge - 917,"34, route de Marseille",281
+261,148,AtectoLounge - 932,"3639, rue des Grands Champs",281
+262,148,AtectoLounge - 938,"40, rue Royale",281
+263,148,AtectoLounge - 962,"4811, rue des Ecoles",281
+264,15,Consectet - 113,650 E Altamonte Dr,78
+265,15,Consectet - 1206,2530 C Del Rio Circle,420
+266,15,Consectet - 1257,DeSouth Square,420
+267,15,Consectet - 128,23456 Calumet St,495
+268,15,Consectet - 1311,2530 Willow Court,495
+269,15,Consectet - 1413,5243 Harmony Way,495
+270,15,Consectet - 1429,Bay Area Outlet Mall,495
+271,15,Consectet - 1477,Silver Sands Factory Outlet,303
+272,15,Consectet - 1615,32525 Hollywood Blvd.,306
+273,15,Consectet - 1672,8789 S.W. 2517 Ave.,446
+274,15,Consectet - 1674,Market Square Shopping Center,557
+275,15,Consectet - 1732,78025 E. Mercy Island Cswy,560
+276,15,Consectet - 1748,825 Coral Way,163
+277,15,Consectet - 178,83995 South Dixie Highway,163
+278,15,Consectet - 1896,8525 Nw 17th St.,163
+279,15,Consectet - 1918,"Dadeland Mall, Space 25090",163
+280,15,Consectet - 1991,Flagler Park Plaza,163
+281,15,Consectet - 238,254075 Biscayne Blvd.,171
+282,15,Consectet - 268,25631 Florida Mall Ave.,21
+283,15,Consectet - 326,9707 Coldwater Drive,21
+284,15,Consectet - 335,Belz Factory Outlet,21
+285,15,Consectet - 338,Highland Lakes Shopping Ctr.,21
+286,15,Consectet - 455,9876 Fruitville Rd,375
+287,15,Consectet - 588,One Equinox Way,369
+288,15,Consectet - 605,University Plaza,346
+289,15,Consectet - 628,Horizon Outlet Center,157
+290,161,Eligendi - 42,Attaché de Presse,249
+291,161,Eligendi - 508,Attaché de Presse,249
+292,161,Eligendi - 535,Attaché de Presse,249
+293,161,Eligendi - 580,Attaché de Presse,249
+294,161,Eligendi - 702,Attaché de Presse,249
+295,163,Eligendi - 715,"80112, rue des Pyrenees",428
+296,163,Eligendi - 778,8498 Mcneil Pl.,428
+297,163,Eligendi - 829,"8787, avenue de l´ Union Centrale",428
+298,163,Eligendi - 844,"95, rue Ste-Honoré",428
+299,163,Eligendi - 96,"98, rue de Terre Neuve",428
+300,163,Eligendi - 994,"8787, impasse Notre-Dame",438
+301,163,Excepture - 1078,"88, rue de l´Esplanade",438
+302,163,Excepture - 1113,"9, avenue du Président-Kennedy",438
+303,163,Excepture - 1155,"9851, rue de Varenne",438
+304,163,Excepture - 1218,"996, rue Maillard",438
+305,164,Excepture - 1321,"34, rue Surcouf",226
+306,164,Excepture - 1332,"39, rue de l'Espace De Schengen",226
+307,164,Excepture - 1403,"40, place de Fontenoy",226
+308,164,Excepture - 1485,"4024, rue Surcouf",226
+309,164,Excepture - 151,"45, avenue du Port",226
+310,164,Excepture - 1520,"66, avenue du Québec",580
+311,164,Excepture - 1567,"67, avenue de Villiers",580
+312,164,Excepture - 1577,"671, place du Tertre",580
+313,164,Excepture - 1618,"785, rue de Varenne",580
+314,164,Excepture - 1645,"8, rue de l´Avenir",580
+315,164,Excepture - 1684,"6, avenue de l´Europe",106
+316,164,Excepture - 1756,"611bis, rue des Peupliers",106
+317,164,Excepture - 1789,"622, rue Villedo",106
+318,164,Excepture - 1815,"67, avenue de l´ Union Centrale",106
+319,164,Excepture - 1896,"759, rue de Bas Marin",106
+320,166,Excepture - 1971,"7, rue des Ecoles",13
+321,166,Excepture - 1971,"7, rue des Ecoles",19
+322,166,Excepture - 1971,"7, rue des Ecoles",395
+323,166,Excepture - 223,"8, avenue de l´ Union Centrale",13
+324,166,Excepture - 223,"8, avenue de l´ Union Centrale",19
+325,166,Excepture - 223,"8, avenue de l´ Union Centrale",395
+326,17,Consectet - 666,4151 Olivera,8
+327,17,Consectet - 691,42500 West Park Drive,8
+328,17,Consectet - 896,9935 Robert C Daniel Jr Parkway,173
+329,17,Consectet - 905,42525 Austell Road,502
+330,17,Consectet - 929,1256 American Beauty Dr,216
+331,17,Consectet - 946,Peach Festival Outlet,216
+332,17,Consectet - 978,3794 Francine Court,400
+333,17,Cupidcoffee - 1022,Park North Business Center,400
+334,17,Cupidcoffee - 1030,1568 Delta Fair Blvd.,319
+335,17,Cupidcoffee - 1030,1568 Delta Fair Blvd.,528
+336,17,Cupidcoffee - 1047,Peachtree Mall,319
+337,17,Cupidcoffee - 1047,Peachtree Mall,528
+338,17,Cupidcoffee - 1134,99842 White Mill East,140
+339,17,Cupidcoffee - 1194,West Georgia Commons,607
+340,17,Cupidcoffee - 120,99535 Dallas Highway,459
+341,17,Cupidcoffee - 121,2025 Greenwood Ct,118
+342,17,Cupidcoffee - 1249,830 Highway 499 So,118
+343,17,Cupidcoffee - 1273,Savannah Festival Outlet,185
+344,17,Cupidcoffee - 1279,6055 Shawnee Industrial Way,122
+345,177,Excepture - 309,"47, rue de Linois",245
+346,177,Excepture - 388,"487, rue Montcalm",245
+347,177,Excepture - 517,"48bis, boulevard du Montparnasse",245
+348,177,Excepture - 534,"5, avenue de la Gare",245
+349,177,Excepture - 549,"5, rue Malar",245
+350,177,Excepture - 578,"14, avenue Reille",453
+351,177,Excepture - 659,"2, rue de la Comédie",453
+352,177,Excepture - 705,"2, rue Pierre-Demoulin",453
+353,177,Excepture - 754,"2, rue Royale",453
+354,177,Excepture - 756,"28, quai de Grenelle",453
+355,177,Moghulis - 1974,"21, avenue des Ternes",82
+356,177,Moghulis - 198,"211, avenue Foch",82
+357,177,Moghulis - 1992,"24, avenue du Port",82
+358,177,Moghulis - 1996,"24, rue Lauriston",82
+359,177,Moghulis - 246,"242, rue de Cambrai",82
+360,178,Moghulis - 282,"18, rue de la Comédie",93
+361,178,Moghulis - 306,"2, rue Henri Gagnon",93
+362,178,Moghulis - 319,"6169, rue Malar",93
+363,178,Moghulis - 592,"8, rue Lafayette",93
+364,178,Moghulis - 621,"88, avenue de l´ Union Centrale",93
+365,178,Moghulis - 631,"80811, rue de Varenne",34
+366,178,Moghulis - 734,"95, avenue de l´ Union Centrale",34
+367,178,Moghulis - 772,"95, avenue des Ternes",34
+368,178,Moghulis - 976,"954, rue de Bas Marin",34
+369,178,Neamo - 101,Attaché de Presse,34
+370,178,Neamo - 1032,"6, avenue de Norvege",534
+371,178,Neamo - 1098,"62, route de Marseille",534
+372,178,Neamo - 1115,"6268, chaussée de Tournai",534
+373,178,Neamo - 1203,"66, allée des Princes",534
+374,178,Neamo - 1217,"663, rue des Ecoles",534
+375,178,Neamo - 1285,"1, rue de la Cavalerie",212
+376,178,Neamo - 1346,"100, rue de la Centenaire",212
+377,178,Neamo - 1460,"103, avenue des Champs-Elysées",212
+378,178,Neamo - 1487,"11, avenue du Président-Kennedy",212
+379,178,Neamo - 1495,Midi-Couleurs,212
+380,178,Neamo - 1562,"570, avenue des Champs-Elysées",597
+381,178,Neamo - 1660,"6, avenue des Ternes",597
+382,178,Neamo - 1725,"660, rue Villedo",597
+383,178,Neamo - 1763,"8, rue Pierre-Demoulin",597
+384,178,Neamo - 1796,"9, avenue des Ternes",597
+385,178,Neamo - 1815,"38, chaussée de Tournai",611
+386,178,Neamo - 1824,"44, quai de Grenelle",611
+387,178,Neamo - 1826,"44, rue du Départ",611
+388,178,Neamo - 1877,"4801, rue de Varenne",611
+389,178,Neamo - 1931,"5, rue Lafayette",611
+390,179,Neamo - 232,"46, rue des Pyrenees",295
+391,179,Neamo - 245,"47, impasse Ste-Madeleine",295
+392,179,Neamo - 28,"48, rue Montcalm",295
+393,179,Neamo - 368,"505, quai Paul Doumer",295
+394,179,Neamo - 435,"52, rue Henri Gagnon",295
+395,179,Neamo - 541,"88, impasse Notre-Dame",9
+396,179,Neamo - 574,"95, impasse Notre-Dame",9
+397,179,Neamo - 592,"9559, avenue de Villiers",9
+398,179,Neamo - 775,"958, avenue du Québec",9
+399,179,Neamo - 823,Attaché de Presse,9
+400,179,Neamo - 866,"10, route de Marseille",180
+401,179,Neamo - 92,"100, rue des Rosiers",180
+402,179,Neamo - 961,"1011, avenue Foch",180
+403,179,Neamo - 997,"11, quai de l´ Iton",180
+404,179,Neque - 1062,"112, avenue du Québec",180
+405,179,Neque - 1072,"44, rue Mazagran",221
+406,179,Neque - 1151,"470, rue de Linois",221
+407,179,Neque - 1278,"48bis, boulevard du Montparnasse",221
+408,179,Neque - 1290,"5, rue de Courtaboeuf",221
+409,179,Neque - 1296,"5501, rue Lauriston",221
+410,179,Neque - 1310,"2646, avenue de l´Europe",57
+411,179,Neque - 1324,"268, avenue de l´Europe",57
+412,179,Neque - 1349,"2802, boulevard Beau Marchais",57
+413,179,Neque - 1353,"281, rue de Varenne",57
+414,179,Neque - 1463,"28bis, boulevard du Montparnasse",57
+415,180,Tempora - 505,"38, rue Villedo",2
+416,180,Tempora - 585,"3869, rue Villedo",2
+417,180,Tempora - 588,"390, rue des Rosiers",2
+418,180,Tempora - 622,"524, rue Villedo",2
+419,180,Tempora - 676,"558, rue Marbeuf",2
+420,181,Tempora - 70,"8787, avenue de l´ Union Centrale",203
+421,181,Tempora - 723,"8919, rue Basse-du-Rocher",203
+422,181,Tempora - 778,"910bis, boulevard du Montparnasse",203
+423,181,Tempora - 843,"935, rue Mazagran",203
+424,181,Tempora - 903,Attaché de Presse,203
+425,19,Cupidcoffee - 1358,Königsteiner Straße 9,199
+426,19,Cupidcoffee - 1417,Werftstr 566,42
+427,19,Cupidcoffee - 1417,Werftstr 566,87
+428,19,Cupidcoffee - 1417,Werftstr 566,248
+429,19,Cupidcoffee - 1417,Werftstr 566,316
+430,19,Cupidcoffee - 1417,Werftstr 566,590
+431,19,Cupidcoffee - 1453,Westheimer Straße 96,42
+432,19,Cupidcoffee - 1453,Westheimer Straße 96,87
+433,19,Cupidcoffee - 1453,Westheimer Straße 96,248
+434,19,Cupidcoffee - 1453,Westheimer Straße 96,316
+435,19,Cupidcoffee - 1453,Westheimer Straße 96,590
+436,19,Cupidcoffee - 148,Westheimer Straße 9601,42
+437,19,Cupidcoffee - 148,Westheimer Straße 9601,87
+438,19,Cupidcoffee - 148,Westheimer Straße 9601,248
+439,19,Cupidcoffee - 148,Westheimer Straße 9601,316
+440,19,Cupidcoffee - 148,Westheimer Straße 9601,590
+441,19,Cupidcoffee - 1545,Winter der Böck 5850,42
+442,19,Cupidcoffee - 1545,Winter der Böck 5850,87
+443,19,Cupidcoffee - 1545,Winter der Böck 5850,248
+444,19,Cupidcoffee - 1545,Winter der Böck 5850,316
+445,19,Cupidcoffee - 1545,Winter der Böck 5850,590
+446,19,Cupidcoffee - 1570,Am Grossen Dern 45,120
+447,19,Cupidcoffee - 1572,Am Karlshof 6883,120
+448,19,Cupidcoffee - 1651,Am Kreuz 4065,120
+449,19,Cupidcoffee - 1666,Auf dem Ufer 164,120
+450,19,Cupidcoffee - 1667,Auf den Kuhlen Straße 19,120
+451,19,Cupidcoffee - 1682,Altendorfer Straße 930,113
+452,19,Cupidcoffee - 1799,Am Gallberg 686,113
+453,19,Cupidcoffee - 1856,Auf Der Steige 100,113
+454,19,Cupidcoffee - 295,Berliner Platz 94,113
+455,19,Cupidcoffee - 385,Bundesallee 9511,113
+456,19,Cupidcoffee - 397,Kurfürstenstr 9,131
+457,19,Cupidcoffee - 471,Lützowplatz 58,131
+458,19,Cupidcoffee - 549,Marienplatz 33651,131
+459,19,Cupidcoffee - 569,Marketplatz 5193,131
+460,19,Cupidcoffee - 645,Winterfeldtstr 3539,131
+461,19,Cupidcoffee - 79,Alderstr 8229,497
+462,19,Cupidcoffee - 79,Alderstr 8229,561
+463,19,Cupidcoffee - 952,Alte Landstr 9902,497
+464,19,Cupidcoffee - 952,Alte Landstr 9902,561
+465,19,Cupidcoffee - 96,Altendorfer Straße 299,497
+466,19,Cupidcoffee - 96,Altendorfer Straße 299,561
+467,19,Cupidcoffee - 997,Essener Straße 820,335
+468,19,Cupidcoffee - 997,Essener Straße 820,551
+469,19,Dictar - 102,Galeriestr 28,335
+470,19,Dictar - 102,Galeriestr 28,551
+471,19,Dictar - 103,Rykestr 295,92
+472,19,Dictar - 1031,Unter Linden 924,92
+473,19,Dictar - 1053,Viktoria-Luise-Platz 45,92
+474,19,Dictar - 1063,Westheimer Straße 9292,92
+475,19,Dictar - 1065,Winterfeldtstr 2529,92
+476,19,Dictar - 1135,Parise Straße 7556,139
+477,19,Dictar - 1135,Parise Straße 7556,232
+478,19,Dictar - 1135,Parise Straße 7556,474
+479,19,Dictar - 1135,Parise Straße 7556,489
+480,19,Dictar - 1150,Am Gallberg 645,555
+481,19,Dictar - 1170,Am Grossen Dern 4624,555
+482,19,Dictar - 125,Am Karlshof 2462,555
+483,19,Dictar - 1286,Am Kreuz 4164,555
+484,19,Dictar - 1407,Auf dem Ufer 664,555
+485,20,Dictar - 1420,Helsenbergbogen 6,604
+486,20,Dictar - 1496,Buergermeister-ulrich-str 9500,37
+487,20,Dictar - 1496,Buergermeister-ulrich-str 9500,148
+488,20,Dictar - 1498,Am Gallberg 6186,4
+489,20,Dictar - 1498,Am Gallberg 6186,370
+490,20,Dictar - 1516,Am Grossen Dern 4583,4
+491,20,Dictar - 1516,Am Grossen Dern 4583,370
+492,20,Dictar - 1553,Am Karlshof 368,4
+493,20,Dictar - 1553,Am Karlshof 368,370
+494,20,Dictar - 1732,Am Kreuz 4055,4
+495,20,Dictar - 1732,Am Kreuz 4055,370
+496,20,Dictar - 1761,Auf dem Ufer 164,4
+497,20,Dictar - 1761,Auf dem Ufer 164,370
+498,20,Illum - 1050,Holzstr 1333,376
+499,20,Illum - 106,Parkstr 4851,376
+500,20,Illum - 1109,Postfach 99 01 01,376
+501,20,Illum - 1141,Westheimer Straße 9601,376
+502,20,Illum - 1174,Winter der Böck 8456,376
+503,20,Illum - 1181,Wolfgangstraße 28,225
+504,20,Illum - 1181,Wolfgangstraße 28,478
+505,20,Illum - 1226,Zeiter Weg 9922,225
+506,20,Illum - 1226,Zeiter Weg 9922,478
+507,20,Illum - 1238,Zollhof 2822,225
+508,20,Illum - 1238,Zollhof 2822,478
+509,20,Illum - 1275,Haberstr 28,335
+510,20,Illum - 1275,Haberstr 28,551
+511,20,Illum - 1288,Haberstr 8,335
+512,20,Illum - 1288,Haberstr 8,551
+513,20,Illum - 1290,Hansaallee 500,335
+514,20,Illum - 1290,Hansaallee 500,551
+515,20,Illum - 1301,Auf Der Steige 29,250
+516,20,Illum - 1303,Berliner Platz 1,598
+517,20,Illum - 1314,Brunnenstr 432,598
+518,20,Illum - 140,Dunckerstr 4,598
+519,20,Illum - 1548,Galeriestr 123,598
+520,20,Illum - 1569,Herzogstr 228,598
+521,20,Illum - 1576,Platz des Landtags 55,139
+522,20,Illum - 1576,Platz des Landtags 55,232
+523,20,Illum - 1576,Platz des Landtags 55,474
+524,20,Illum - 1576,Platz des Landtags 55,489
+525,20,Illum - 1683,Postenweg 5752,139
+526,20,Illum - 1683,Postenweg 5752,232
+527,20,Illum - 1683,Postenweg 5752,474
+528,20,Illum - 1683,Postenweg 5752,489
+529,20,Illum - 1833,Postfach 2 77 77,139
+530,20,Illum - 1833,Postfach 2 77 77,232
+531,20,Illum - 1833,Postfach 2 77 77,474
+532,20,Illum - 1833,Postfach 2 77 77,489
+533,20,Illum - 1932,Berliner Platz 77,75
+534,20,Illum - 1932,Berliner Platz 77,592
+535,20,Illum - 1961,Brunnenstr 75,75
+536,20,Illum - 1961,Brunnenstr 75,592
+537,20,Illum - 243,Buergermeister-ulrich-str 098,75
+538,20,Illum - 243,Buergermeister-ulrich-str 098,592
+539,23,Illum - 289,8127 Otter Dr.,496
+540,23,Illum - 360,22571 South 2500 East,342
+541,23,Illum - 374,Lewiston Mall,39
+542,23,Illum - 516,4781 Highway 95,510
+543,23,Illum - 549,2472 Alexander Place,53
+544,23,Illum - 549,2472 Alexander Place,133
+545,24,Illum - 561,4255 East Lies Road,418
+546,24,Illum - 574,9770 Mountain View Drive,418
+547,24,Illum - 622,231 C Mt. Hood Circle,479
+548,24,Illum - 661,25 N State St,479
+549,24,Illum - 811,3005 Banyan Way,479
+550,24,Illum - 826,42500 W 76th St,479
+551,24,Illum - 837,9056 Mount Dr,479
+552,24,Illum - 887,25550 Executive Dr,608
+553,24,Illum - 922,1200 First Ave.,269
+554,24,Illum - 983,455 256th St.,54
+555,24,Inventore - 1064,Ring Plaza,10
+556,24,Inventore - 1137,123 W. Lake Ave.,326
+557,24,Inventore - 1219,Sports Stores @ Tuscola,200
+558,24,Inventore - 1247,25149 Howard Dr,246
+559,24,Inventore - 1313,25269 N. Wood Dale Rd,379
+560,24,Inventore - 1338,25269 Wood Dale Rd.,379
+561,25,Inventore - 1370,Indiana Factory Shops,238
+562,25,Inventore - 1442,42522 Northrupp,179
+563,25,Inventore - 1552,250 E. County Line Rd.,330
+564,25,Inventore - 1612,89950 Castleton Corner,330
+565,25,Inventore - 1664,Washington Square Ii,330
+566,25,Inventore - 1786,Logansport Mall,408
+567,25,Inventore - 1939,42500 South Franklin Street,3
+568,25,Inventore - 28,New Castle Plaza,515
+569,25,Inventore - 36,6900 William Richardson Ct.,138
+570,27,Inventore - 477,25050 S. Columbia Ave,472
+571,27,Inventore - 528,5740 Elderwood Dr,472
+572,27,Inventore - 531,Turfway Retail Center,143
+573,27,Inventore - 531,Turfway Retail Center,476
+574,27,Inventore - 574,Newport Shopping Center,517
+575,27,Inventore - 609,790 Shelbyville Road,360
+576,27,Inventore - 723,Grand Central Place,461
+577,3,Autem - 1199,656 Cox Creek Pkwy.,143
+578,3,Autem - 1199,656 Cox Creek Pkwy.,476
+579,3,Autem - 1205,2525 Electrics Blvd.,100
+580,3,Autem - 1226,Parkway City Mall,100
+581,3,Autem - 1468,39950 Airport Blvd.,309
+582,3,Autem - 1481,574 Atlanta Highway,59
+583,30,Inventore - 733,7682 Fern Leaf Lane,499
+584,30,Inventore - 815,5458 Gladstone Drive,594
+585,30,Inventore - 854,Tree Plaza,594
+586,30,Inventore - 876,99 Edgewater Drive,467
+587,30,Inventore - 895,58 Teed Drive,359
+588,30,Inventore - 90,Ames Plaza,218
+589,30,Inventore - 92,Wrentham Village,599
+590,31,Inventore - 966,6th Floor 5250 Main Street,541
+591,31,Kavaca - 1118,P.O. Box 44000,541
+592,32,Kavaca - 1170,1010 Maple,142
+593,33,Kavaca - 1275,63 Badgers Island West,431
+594,33,Kavaca - 133,Dansk Square,431
+595,35,Kavaca - 1372,250000 Eight Mile Road,86
+596,35,Kavaca - 1384,594 Tossing Way,86
+597,35,Kavaca - 1405,8154 Via Mexico,86
+598,35,Kavaca - 1430,Horizon Outlet Center,412
+599,35,Kavaca - 1430,Horizon Outlet Center,448
+600,35,Kavaca - 1432,Kensington Valley Shops,297
+601,35,Kavaca - 1527,399700 John R. Rd.,308
+602,35,Kavaca - 1546,678 Eastman Ave.,460
+603,35,Kavaca - 1552,46460 West Oaks Drive,581
+604,35,Kavaca - 1563,9920 North Telegraph Rd.,488
+605,35,Kavaca - 1577,Port Huron,532
+606,35,Kavaca - 1602,Redford Plaza,393
+607,35,Kavaca - 1614,998 Forest Road,548
+608,35,Kavaca - 1644,99800 Tittabawasee Rd.,548
+609,35,Kavaca - 1660,997000 Telegraph Rd.,175
+610,35,Kavaca - 1735,2533 Eureka Rd.,383
+611,35,Kavaca - 1844,6789 Warren Road,244
+612,35,Kavaca - 1862,855 East Main Avenue,46
+613,36,Kavaca - 1886,970 Pheasant Circle,94
+614,36,Kavaca - 253,Tanger Factory,94
+615,36,Kavaca - 277,80 Sunview Terrace,539
+616,36,Kavaca - 290,9995 West Central Entrance,539
+617,36,Kavaca - 454,74400 France Avenue South,81
+618,36,Kavaca - 462,Medford Outlet Center,450
+619,36,Kavaca - 462,Medford Outlet Center,524
+620,36,Kavaca - 471,5678 Lakeview Blvd.,454
+621,36,Kavaca - 512,99 Front Street,454
+622,36,Kavaca - 580,City Center,454
+623,36,Kavaca - 581,Horizon Outlet,255
+624,37,Kavaca - 653,8689 St. George Court,227
+625,37,Kavaca - 908,Factory Merchants,227
+626,37,Kavaca - 919,25095 W. Florissant,251
+627,37,Kavaca - 935,6030 Robinson Road,36
+628,37,Laborum - 1010,Blue Ridge Mall,243
+629,37,Laborum - 1024,Ward Parkway Center,243
+630,37,Laborum - 107,Kansas City Factory Outlet,321
+631,37,Laborum - 1174,70 N.W. Plaza,89
+632,37,Laborum - 1190,250880 Baur Blvd,164
+633,37,Laborum - 1349,660 Lindbergh,164
+634,37,Laborum - 1383,6996 South Lindbergh,164
+635,37,Laborum - 1404,St. Louis Marketplace,164
+636,37,Laborum - 1416,3681 South St.,206
+637,39,Laborum - 1428,9089 Bonari Court,307
+638,39,Laborum - 1449,Edgewater Mall,307
+639,39,Laborum - 1512,Gulfport Factory Shops,177
+640,39,Laborum - 1595,4496 Barnes Crossing Rd.,1
+641,40,Laborum - 1657,4214 Willbrook Court,33
+642,40,Laborum - 173,640 South 994th St. W.,33
+643,40,Laborum - 1741,Holiday Village Mall,149
+644,40,Laborum - 1859,9830 May Way,104
+645,40,Laborum - 1859,9830 May Way,260
+646,40,Laborum - 1859,9830 May Way,536
+647,40,Laborum - 1864,2313 B Southampton Rd,422
+648,40,Laborum - 1877,Southgate Mall,422
+649,41,Laborum - 196,Box 99354 300 Union Street,207
+650,42,Laborum - 285,3605 Sinclair Ave.,84
+651,42,Laborum - 383,8520 University City Blvd,84
+652,42,Laborum - 481,Po Box 2257,318
+653,42,Laborum - 504,6333 Cloverleaf Parkway,506
+654,42,Laborum - 505,7700 Green Road,261
+655,42,Laborum - 530,956k North Wesleyan Blvd.,458
+656,42,Laborum - 557,Factory Stores Of America,353
+657,42,Laborum - 627,3990 Silas Creek Parkway,613
+658,46,Laborum - 630,Granite State Marketplace,274
+659,46,Laborum - 742,6 Cotton Road,407
+660,46,Laborum - 832,Westside Plaza,407
+661,46,Laborum - 862,Stateline Plaza,571
+662,46,Laborum - 898,Lake Region Factory Outlet,304
+663,48,Laborum - 907,7053 Laurel Dr.,435
+664,48,Laborum - 907,7053 Laurel Dr.,525
+665,48,Laborum - 959,9952 E. Lohman Ave.,190
+666,48,Lanister - 1183,49925 Crestview Drive N.E.,240
+667,48,Lanister - 1198,4660 Rodeo Road,236
+668,50,Lanister - 1269,2565-175 Mitchell Road,40
+669,50,Lanister - 1312,Level 59,40
+670,50,Lanister - 1356,2258 Pablo Neruda,117
+671,50,Lanister - 1363,2313 Pastel Drive,117
+672,50,Lanister - 1387,2355 Regina Lane,117
+673,50,Lanister - 1436,238 Montego,117
+674,50,Lanister - 1490,2639 Tea Lane,117
+675,50,Lanister - 1495,3917 Catalpa Court,363
+676,50,Lanister - 1531,3925 Boyd,363
+677,50,Lanister - 1547,4052 Mt. Wilson Way,363
+678,50,Lanister - 1772,4107 St. Raphael Drive,363
+679,50,Lanister - 1887,4262 Monterey Ave.,363
+680,50,Lanister - 1906,1841 Cape Cod Way,609
+681,50,Lanister - 191,1901 Missing Canyon Court,609
+682,50,Lanister - 1972,1906 Adobe Dr.,609
+683,50,Lanister - 1981,1942 Rock Island Drive,609
+684,50,Nesciunt - 1972,2333 Fillet Ave,6
+685,50,Nesciunt - 1974,2341 Breaker Dr.,6
+686,50,Nesciunt - 1977,2390 Brodia Court,6
+687,50,Nesciunt - 21,2472 Alexander Place,6
+688,50,Nesciunt - 218,2501 Miller Street,6
+689,50,Nesciunt - 226,3241 West Slough Rd.,493
+690,50,Nesciunt - 252,3296 Trinity Ave,493
+691,50,Nesciunt - 269,3440 Concord Ct.,493
+692,50,Nesciunt - 312,352 Margo Dr.,493
+693,50,Nesciunt - 329,3717 Via Cordona,493
+694,50,Nesciunt - 360,3906 El Dorado Way,41
+695,50,Nesciunt - 411,393 Yellowood Lane,41
+696,50,Nesciunt - 466,3985 Jacqueline Drive,41
+697,50,Nesciunt - 53,4250 Concord Road,41
+698,50,Nesciunt - 586,5026 Clearbrook Drive,41
+699,50,Nesciunt - 702,9266 Trees Drive,466
+700,50,Nesciunt - 737,9353 N Lucile Lane,466
+701,50,Nesciunt - 778,9442 Thors Bay Road,466
+702,50,Nesciunt - 78,9471 Shelly Dr.,466
+703,50,Nesciunt - 821,9852 Shirley Dr,466
+704,50,Nesciunt - 897,9231 Santa Ana Drive,413
+705,50,Nesciunt - 942,9270 Lakewood Court,413
+706,50,Nesciunt - 943,9476 Hill Top Rd.,413
+707,50,Nesciunt - 982,9488 St. Francis Dr.,413
+708,50,Nostrum - 1003,973 MarvelLane,413
+709,50,Nostrum - 104,3574 East Lake Court,271
+710,50,Nostrum - 1226,3630 Second Avenue,271
+711,50,Nostrum - 1239,3637 Pheasant Circle,271
+712,50,Nostrum - 1273,3711 Cambridge Drive,271
+713,50,Nostrum - 1407,Orwith Center,271
+714,50,Sint - 43,Midi-Couleurs,609
+715,50,Sint - 471,3421 Gehringer Drive,254
+716,50,Sint - 478,345 Bisca Y Court,254
+717,50,Sint - 488,3464 Chilpancingo Park,254
+718,50,Sint - 57,3492 Broadway Street,254
+719,50,Sint - 683,3731 Broadmoor Avenue,254
+720,50,Sint - 705,6857 La Salle Ct,267
+721,50,Sint - 770,6982 Duck Horn Court,267
+722,50,Sint - 797,7068 Rock Drive,267
+723,50,Sint - 822,7201 Elk Dr.,267
+724,50,Sint - 935,7226 Casa Real,267
+725,50,Sint - 994,8901 Fourth Street,514
+726,50,SnowBoard - 1059,895 Sandalwood Drive,514
+727,50,SnowBoard - 1156,8991 Olivera,514
+728,50,SnowBoard - 1189,9037 Valley High Dr.,514
+729,50,SnowBoard - 1203,9161 Napa St.,514
+730,50,SnowBoard - 1238,9265 Village Road,165
+731,50,SnowBoard - 1249,9302 Veracruz,165
+732,50,SnowBoard - 1279,9409 Cedar Point Loop,165
+733,50,SnowBoard - 1298,9429 Geraldine Dr,165
+734,50,SnowBoard - 1377,9944 Maywood Lane,165
+735,50,SnowBoard - 1394,2324 Cherry Street,152
+736,50,SnowBoard - 1424,2383 Mt. Davidson Court,152
+737,50,SnowBoard - 1476,2391 Pepper Place,152
+738,50,SnowBoard - 1497,2459 Blue Jay Dr.,152
+739,50,SnowBoard - 1506,2568 St George Dr.,152
+740,50,SnowBoard - 1544,6785 Union St.,468
+741,50,SnowBoard - 1568,6876 Winthrop Street,468
+742,50,SnowBoard - 1589,6986 Countrywood Ct.,468
+743,50,SnowBoard - 1626,7223 Brush Creek Court,468
+744,50,SnowBoard - 1628,7232 Mulberry,468
+745,50,SnowBoard - 1656,2096 Trinity Ave.,427
+746,50,SnowBoard - 1712,2151 Twincreek Ct,427
+747,50,SnowBoard - 179,2374 Turning Way,427
+748,50,SnowBoard - 1919,2441 Heavenly Drive,427
+749,50,SnowBoard - 2,2511 Via Appia,427
+750,50,Tempori - 80,5951 Snowberry Court,176
+751,50,Tempori - 852,5957 Hill Drive,176
+752,50,Tempori - 867,5966 Krueger Dr.,176
+753,50,Tempori - 915,5995 Olivera Rd.,176
+754,50,Tempori - 96,6028 D St.,176
+755,50,Tempori - 975,9195 Park Glen Ct,215
+756,50,Tempori - 979,9241 St George Dr.,215
+757,50,Tempori - 987,9335 Wilke Drive,215
+758,50,Tempori - 991,9353 Creekside Dr.,215
+759,50,Ullam - 117,9481 Laguna Street,215
+760,52,Ullam - 1225,2560 E. Newlands Dr,85
+761,52,Ullam - 1231,6753 Howard Hughes Parkway,16
+762,52,Ullam - 1233,Belz Factory Outlet,16
+763,52,Ullam - 1241,Eastern Beltway Center,16
+764,52,Ullam - 1256,22589 West Craig Road,386
+765,52,Ullam - 1293,62500 Neil Road,535
+766,52,Ullam - 131,910 Main Street.,136
+767,53,Ullam - 1350,Auf Der Steige 1010,184
+768,53,Ullam - 1416,Buergermeister-ulrich-str 39,184
+769,53,Ullam - 1498,Buergermeister-ulrich-str 5800,184
+770,53,Ullam - 1574,Bundesallee 112,184
+771,53,Ullam - 1637,Hellweg 4534,184
+772,53,Ullam - 1700,Galeriestr 6818,241
+773,53,Ullam - 1785,Hans-Rosenthal-Platz 41,241
+774,53,Ullam - 1838,Hauptstr 6035,241
+775,53,Ullam - 1844,Herzogstr 328,241
+776,53,Ullam - 1899,Hochstr 8111,241
+777,53,Ullam - 1936,Hansaallee 6,540
+778,53,Ullam - 1979,Heiderplatz 948,540
+779,53,Ullam - 287,Heiderweg 4982,540
+780,53,Ullam - 300,Heidestieg Straße 8224,540
+781,53,Ullam - 324,Heideweg 2459,540
+782,53,Ullam - 330,Hunzinger Allee 292,181
+783,53,Ullam - 34,Im Himmelsweg 89,181
+784,53,Ullam - 387,Lieblingsweg 245,181
+785,53,Ullam - 407,Moritzstr 2,181
+786,53,Ullam - 490,Nonnendamm 22,181
+787,53,Ullam - 643,Postfach 55 00 00,139
+788,53,Ullam - 643,Postfach 55 00 00,232
+789,53,Ullam - 643,Postfach 55 00 00,474
+790,53,Ullam - 643,Postfach 55 00 00,489
+791,53,Ullam - 725,Auf der Krone 75,75
+792,53,Ullam - 725,Auf der Krone 75,592
+793,53,Ullam - 731,Auf Der Steige 77,75
+794,53,Ullam - 731,Auf Der Steige 77,592
+795,53,Ullam - 747,Erftplatz 66,526
+796,53,Ullam - 767,Hans-Rosenthal-Platz 4612,526
+797,53,Ullam - 951,Hauptstr 6146,526
+798,53,Vahalas - 1071,Helsenbergbogen 6,526
+799,53,Vahalas - 1081,Herzogstr 4662,526
+800,53,Vahalas - 1295,3524 Ruth Drive,397
+801,53,Vahalas - 1397,Alderstr 8642,397
+802,53,Vahalas - 1410,Alderweg 6842,397
+803,53,Vahalas - 1505,Alte Landstr 221,397
+804,53,Vahalas - 1670,Altendorfer Straße 421,397
+805,54,Perspicats - 238,9098 Story Lane,18
+806,54,Perspicats - 238,9098 Story Lane,426
+807,54,Perspicats - 256,8871 Likins Ave.,344
+808,54,Perspicats - 274,Woodbury Commons,344
+809,54,Perspicats - 314,7779 Merry Drive,5
+810,54,Perspicats - 502,Consumer Square,5
+811,54,Perspicats - 507,6837 Pirate Lane,507
+812,54,Perspicats - 555,Great Northern Mall Hwy4 & Rt. 31,507
+813,54,Perspicats - 556,6405 Erie Blvd. Hills Plaza,341
+814,54,Perspicats - 666,P.O. Box 9005,156
+815,54,Perspicats - 701,Pyramid Mall,230
+816,54,Perspicats - 707,Adirondack Factory Outlet,530
+817,54,Perspicats - 782,Attn: Accounts Payable,159
+818,54,Perspicats - 786,7505 Commercial Dr.,125
+819,54,Perspicats - 790,123 Union Square South,35
+820,54,Perspicats - 808,2596 Big Canyon Road,35
+821,54,Perspicats - 830,Green Acres Mall,578
+822,55,Perspicats - 916,1044 San Carlos,494
+823,55,Perspicats - 959,6225 Glenway Ave.,494
+824,55,Placeat - 1000,664 Book Pl,494
+825,55,Placeat - 1023,Cherry Grove Plaza,494
+826,55,Placeat - 1049,9089 San Jose Ave,319
+827,55,Placeat - 1049,9089 San Jose Ave,528
+828,55,Placeat - 1055,Polaris Town Center,319
+829,55,Placeat - 1055,Polaris Town Center,528
+830,55,Placeat - 1066,25264 E. 260th,313
