@@ -1,4 +1,5 @@
-﻿1,1000020198,Anil,Butt,REG-3001465932,1579 Plaza Rosa,362,2020-05-09,2020-05-09
+﻿VendorID,VendorNo,LastName,FirstName,RegistrationNo,VendorAddress,CityID,CreatedDate,ModifiedDate
+1,1000020198,Anil,Butt,REG-3001465932,1579 Plaza Rosa,362,2020-05-09,2020-05-09
 2,1000075842,Patterson,Anniyah,REG-3003317120,8605 Flamingo Dr,414,2020-05-09,2020-05-09
 3,1000480807,Robin,Keanu,REG-3008271669,"67, avenue de l´ Union Centrale",106,2020-05-09,2020-05-09
 4,1000507235,Dean,Anjali,REG-3013173148,6900 William Richardson Ct.,138,2020-05-09,2020-05-09

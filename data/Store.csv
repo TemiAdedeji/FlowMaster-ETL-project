@@ -1,4 +1,5 @@
-﻿1,1,Autem - 1032,10203 Acorn Avenue,463
+﻿StoreID,StateID,StoreName,StreetAddress,CityID
+1,1,Autem - 1032,10203 Acorn Avenue,463
 2,1,Autem - 1048,1273 Deetmeadow Way,463
 3,1,Autem - 1087,1936 Balance Ct,463
 4,1,Autem - 111,"253131 Lake Frasier Drive, Office No. 2",463
